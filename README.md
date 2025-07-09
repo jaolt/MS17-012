@@ -2,7 +2,6 @@
 
 Slightly modified version of James Forshaw's COM Session Moniker Exploit (MS17-012), which can be run within MSBuild.exe and can be used to Bypass Application Whitelisting solutions. 
 This version of the exploit enumerates Active User sessions on a system (RDP/Citrix) and lets you choose in which user session you want to execute a custom Payload.
-
 License: BSD 3-Clause
 
 Save This File And Execute The Following Command:
