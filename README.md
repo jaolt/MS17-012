@@ -6,8 +6,6 @@ This version of the exploit enumerates Active User sessions on a system (RDP/Cit
 License: BSD 3-Clause
 
 Save This File And Execute The Following Command:
-
-```
 C:\Windows\Microsoft.NET\Framework\v4.0.30319\msbuild.exe C:\Scripts\MS17-012.csproj
 
 Or
